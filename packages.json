@@ -18,7 +18,11 @@
                 "pipewire-codec-aptx",
                 "smartmontools",
                 "vim",
-                "zstd"
+                "zstd",
+                "tlp",
+                "tlp-rdw",
+                "syncthing",
+                "tailscale"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
