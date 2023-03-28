@@ -12,7 +12,6 @@ systemctl mask systemd-rfkill.socket
 tlp start
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-flatpak install --reinstall flathub $(flatpak list --app-runtime=org.fedoraproject.Platform --columns=application | tail -n +1 )
 
 systemctl --global enable flatpak-user-update.timer
 
