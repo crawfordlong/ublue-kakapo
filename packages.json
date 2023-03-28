@@ -25,7 +25,8 @@
                 "tlp",
                 "tlp-rdw",
                 "syncthing",
-                "tailscale"
+                "tailscale",
+                "btop"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
@@ -176,7 +177,9 @@
                 "libpostproc-free",
                 "libswresample-free",
                 "libswscale-free",
-                "mesa-va-drivers"
+                "mesa-va-drivers", 
+                "firefox",
+                "firefox-langpacks"
             ],
             "mate": [
                 "python3-unbound",
