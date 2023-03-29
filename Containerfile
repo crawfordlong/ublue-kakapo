@@ -19,6 +19,9 @@ RUN /tmp/build.sh
 RUN cd /etc/yum.repos.d/ && curl -LO https://pkgs.tailscale.com/stable/fedora/tailscale.repo && \
     rpm-ostree install tailscale && \
     systemctl enable tailscaled
+    
+RUN cd /etc/yum.repos.d/ && curl -LO https://copr.fedorainfracloud.org/coprs/varlad/helix/repo/fedora-${FEDORA_MAJOR_VERSION}/varlad-helix-fedora-${FEDORA_MAJOR_VERSION}.repo && \
+    rpm-ostree install helix
 
 RUN /tmp/post-install.sh
 RUN rm -rf /tmp/* /var/*
