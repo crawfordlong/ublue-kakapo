@@ -14,11 +14,6 @@ ADD packages.json /tmp/packages.json
 
 COPY --from=ghcr.io/ublue-os/config:latest /rpms /tmp/rpms
 
-RUN cd /etc/yum.repos.d/ && curl -LO https://pkgs.tailscale.com/stable/fedora/tailscale.repo && \
-    rpm-ostree install tailscale && \
-    systemctl enable tailscaled && \
-    ostree container commit
-
 RUN /tmp/build.sh
 RUN /tmp/post-install.sh
 RUN rm -rf /tmp/* /var/*
