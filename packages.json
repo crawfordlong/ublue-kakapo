@@ -1,7 +1,9 @@
 {
     "all": {
         "include": {
-            "all": [
+            "all": [  
+                "apr",
+                "apr-util",
                 "distrobox",
                 "ffmpeg",
                 "ffmpeg-libs",
