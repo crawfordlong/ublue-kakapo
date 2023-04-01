@@ -19,7 +19,6 @@
                 "openssl",
                 "pipewire-codec-aptx",
                 "smartmontools",
-                "vim",
                 "zstd",
                 "tlp",
                 "tlp-rdw",
