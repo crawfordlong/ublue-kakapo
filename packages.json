@@ -20,6 +20,7 @@
                 "pipewire-codec-aptx",
                 "smartmontools",
                 "zstd",
+                "intel-media-driver",
                 "tlp",
                 "tlp-rdw",
                 "syncthing",
