@@ -23,7 +23,8 @@
                 "tlp",
                 "tlp-rdw",
                 "syncthing",
-                "btop"
+                "btop",
+                "kitty"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
@@ -161,8 +162,7 @@
             ],
             "sericea": [
                 "tumbler", 
-                "river",
-                "kitty"
+                "river"
             ]
         },
         "exclude": {
