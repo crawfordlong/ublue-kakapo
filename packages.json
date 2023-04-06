@@ -1,7 +1,7 @@
 {
     "all": {
         "include": {
-            "all": [  
+            "all": [
                 "apr",
                 "apr-util",
                 "distrobox",
@@ -9,6 +9,7 @@
                 "ffmpeg-libs",
                 "fzf",
                 "htop",
+                "intel-media-driver",
                 "just",
                 "kernel-devel-matched",
                 "libva-intel-driver",
@@ -162,7 +163,7 @@
                 "xrdb"
             ],
             "sericea": [
-                "tumbler", 
+                "tumbler",
                 "river"
             ]
         },
@@ -176,7 +177,7 @@
                 "libpostproc-free",
                 "libswresample-free",
                 "libswscale-free",
-                "mesa-va-drivers", 
+                "mesa-va-drivers",
                 "firefox",
                 "firefox-langpacks"
             ],
