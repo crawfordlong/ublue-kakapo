@@ -2,7 +2,7 @@
 
 [![build-ublue](https://github.com/ublue-os/main/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/main/actions/workflows/build.yml)
 
-A WIP common main image for all other Ublue images.
+A common main image for all other Ublue images.
 
 1. [Features](#Features)
 1. [Tips and Tricks](#Tips-and-Tricks)
@@ -44,7 +44,7 @@ ublue-os/base-main is also very well suited for servers, and users are expected 
 1. [Follow these instructions](https://ublue.it/installation)
 
 <details>
-<summary>To switch to another image</summary>
+<summary>To switch to another Image</summary>
 
 To rebase an existing Silverblue/Kinoite machine to the latest release (37): 
 
