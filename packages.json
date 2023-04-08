@@ -26,7 +26,8 @@
                 "tlp-rdw",
                 "syncthing",
                 "btop",
-                "kitty"
+                "kitty",
+                "udisks2"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
