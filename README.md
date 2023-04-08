@@ -2,7 +2,7 @@
 
 [![build-ublue](https://github.com/ublue-os/main/actions/workflows/build.yml/badge.svg)](https://github.com/ublue-os/main/actions/workflows/build.yml)
 
-A common main image for all other Ublue images.
+A common main image for all other uBlue images, with minimal (but important) adjustments to Fedora.
 
 1. [Features](#Features)
 1. [Tips and Tricks](#Tips-and-Tricks)
@@ -42,6 +42,7 @@ ublue-os/base-main is also very well suited for servers, and users are expected 
 
 1. [Download the image you want](https://github.com/ublue-os/main/releases)
 1. [Follow these instructions](https://ublue.it/installation)
+1. [File an issue](https://github.com/ublue-os/main/issues) if you find a problem
 
 <details>
 <summary>To switch to another Image</summary>
