@@ -1,5 +1,33 @@
 # Changelog
 
+## [1.2.1](https://github.com/ublue-os/main/compare/v1.2.0...v1.2.1) (2023-04-15)
+
+
+### Bug Fixes
+
+* update readme a bit ([#148](https://github.com/ublue-os/main/issues/148)) ([1ca2aaa](https://github.com/ublue-os/main/commit/1ca2aaacf9291f8dca28c5dd189192386be1db36))
+
+## [1.2.0](https://github.com/ublue-os/main/compare/v1.1.8...v1.2.0) (2023-04-12)
+
+
+### Features
+
+* Include libratbag ([#139](https://github.com/ublue-os/main/issues/139)) ([4dcd439](https://github.com/ublue-os/main/commit/4dcd439c4b0a07c9ed96d6dd96d8a997a092b5b4))
+
+## [1.1.8](https://github.com/ublue-os/main/compare/v1.1.7...v1.1.8) (2023-04-10)
+
+
+### Bug Fixes
+
+* README line fix ([#135](https://github.com/ublue-os/main/issues/135)) ([35cd1c0](https://github.com/ublue-os/main/commit/35cd1c079aeec5a25dca57d2e73d1abd83ace3e2))
+
+## [1.1.7](https://github.com/ublue-os/main/compare/v1.1.6...v1.1.7) (2023-04-08)
+
+
+### Bug Fixes
+
+* update ISOs ([#133](https://github.com/ublue-os/main/issues/133)) ([728f7d6](https://github.com/ublue-os/main/commit/728f7d6e71b7360355f8bb86e85371f28408c289))
+
 ## [1.1.6](https://github.com/ublue-os/main/compare/v1.1.5...v1.1.6) (2023-04-08)
 
 
