@@ -38,7 +38,7 @@
                 "virt-viewer",
                 "libguestfs-tools",
                 "python3-libguestfs",
-                "virt-top",
+                "virt-top"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
