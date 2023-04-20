@@ -30,7 +30,15 @@
                 "kitty",
                 "rapid-photo-downloader",
                 "easyeffects",
-                "virt-manager"
+                "virt-manager",
+                "virt-install",
+                "libvert-daemon-config-network",
+                "libvert-daemon-kvm",
+                "qemu-kvm",
+                "virt-viewer",
+                "libguestfs-tools",
+                "python3-libguestfs",
+                "virt-top",
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
