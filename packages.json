@@ -29,7 +29,8 @@
                 "btop",
                 "kitty",
                 "rapid-photo-downloader",
-                "easyeffects"
+                "easyeffects",
+                "wireguard-tools"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
