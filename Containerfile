@@ -23,6 +23,10 @@ RUN cd /etc/yum.repos.d/ && curl -LO https://pkgs.tailscale.com/stable/fedora/ta
 RUN cd /etc/yum.repos.d/ && curl -LO https://copr.fedorainfracloud.org/coprs/varlad/helix/repo/fedora-${FEDORA_MAJOR_VERSION}/varlad-helix-fedora-${FEDORA_MAJOR_VERSION}.repo && \
     rpm-ostree install helix
 
+RUN git clone --recursive https://github.com/hyprwm/Hyprland
+    cd Hyprland
+    sudo make install
+
 RUN /tmp/post-install.sh
 RUN rm -rf /tmp/* /var/*
 RUN ostree container commit
