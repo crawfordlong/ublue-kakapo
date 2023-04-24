@@ -172,8 +172,7 @@
                 "wdisplays",
                 "kanshi",
                 "darkman",
-                "azote",
-                "gdm"
+                "azote"
             ]
         },
         "exclude": {
