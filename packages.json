@@ -193,9 +193,6 @@
             "mate": [
                 "python3-unbound",
                 "systemd-oomd-defaults"
-            ],
-            "sericea": [
-                "sddm"
             ]
         }
     },
