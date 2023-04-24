@@ -172,7 +172,8 @@
                 "wdisplays",
                 "kanshi",
                 "darkman",
-                "azote"
+                "azote",
+                "gdm"
             ]
         },
         "exclude": {
@@ -192,6 +193,9 @@
             "mate": [
                 "python3-unbound",
                 "systemd-oomd-defaults"
+            ],
+            "sericea": [
+                "sddm"
             ]
         }
     },
