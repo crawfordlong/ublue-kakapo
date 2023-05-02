@@ -19,6 +19,7 @@
                 "nvme-cli",
                 "nvtop",
                 "openssl",
+                "podman-compose",
                 "pipewire-codec-aptx",
                 "smartmontools",
                 "zstd",
@@ -31,6 +32,9 @@
                 "rapid-photo-downloader",
                 "easyeffects",
                 "wireguard-tools"
+                "tmux",
+                "vim",
+                "zstd"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
@@ -173,6 +177,9 @@
                 "kanshi",
                 "darkman",
                 "azote"
+            ],
+            "vauxite": [
+                "xfce4-clipman-plugin"
             ]
         },
         "exclude": {
