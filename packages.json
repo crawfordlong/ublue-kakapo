@@ -34,7 +34,11 @@
                 "wireguard-tools",
                 "tmux",
                 "vim",
-                "zstd"
+                "zstd",
+                "yubikey-manager",
+                "yubikey-manager-qt",
+                "pam_yubico",
+                "yubioath-desktop"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
