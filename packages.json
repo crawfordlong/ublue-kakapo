@@ -37,8 +37,7 @@
                 "zstd",
                 "yubikey-manager",
                 "yubikey-manager-qt",
-                "pam_yubico",
-                "yubioath-desktop"
+                "pam_yubico"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
