@@ -37,7 +37,9 @@
                 "zstd",
                 "yubikey-manager",
                 "yubikey-manager-qt",
-                "pam_yubico"
+                "pam_yubico",
+                "hplip",
+                "hplip-gui"
             ],
             "silverblue": [
                 "ffmpegthumbnailer",
